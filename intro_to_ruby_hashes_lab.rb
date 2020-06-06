@@ -11,7 +11,7 @@ end
 
 def monopoly
 	monopoly =  {
-  :railroads=>new_hash
+  :railroads=>
   {
     :pieces=>4,
     :rent_in_dollars=>
