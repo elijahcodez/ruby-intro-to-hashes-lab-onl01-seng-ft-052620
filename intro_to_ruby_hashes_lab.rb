@@ -1,5 +1,3 @@
-binding.pry
-
 def new_hash 
   {}
 end
